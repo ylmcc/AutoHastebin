@@ -12,7 +12,7 @@ def check():
 	try:
 		with open(sys.argv[1], 'r') as file:
 			text = file.read()
-			url = 'https://hastebin.com'  # This can be changed to any hastebin hosted site.
+			url = 'https://paste.redbrick.dcu.ie'  # This can be changed to any hastebin hosted site.
 			upload(text,url)
 	
 	except IndexError:
