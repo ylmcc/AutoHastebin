@@ -1,5 +1,5 @@
 # Auto Hastebin
-Uploads your file to any hosted hastebin
+Uploads your file to any hosted hastebin. In this example https://paste.redbrick.dcu.ie is used.
 
 For Ubuntu <br>
 <strong> chmod +x haste.py </strong>this allows it to be executed by anyone.
