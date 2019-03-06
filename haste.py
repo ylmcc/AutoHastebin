@@ -16,7 +16,7 @@ def check():
 			upload(text,url)
 	
 	except IndexError:
-			print('Syntax: paste <file>')
+			print('Syntax: haste <file>')
 
 	except FileNotFoundError:
 			sys.argv[1] = input("File not found.\nEnter filename: ")
