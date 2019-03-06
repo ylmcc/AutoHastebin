@@ -8,5 +8,5 @@ Copy it to <strong>/usr/local/bin</strong> <br>Once done enter: <strong>alias ha
 
 Finally ready to go!
 
-Syntax: <strong>haste <file> </strong>
+Syntax: <strong>haste filename </strong>
 
