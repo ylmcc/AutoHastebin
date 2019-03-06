@@ -5,7 +5,7 @@ import sys
 def upload(text,url):
 	r = requests.post(url+'/documents',text)
 	r = r.json()
-	print("Your url is:",url+'/'+r['key'])
+	print("Your url is: {}".format(url+'/'+ r['key']))
 	
 
 def check():
