@@ -10,10 +10,9 @@ Finally ready to go!
 
 Syntax: <strong>haste filename </strong>
 
-To keep it permanent you will need to add the alias to ~/.bashrc
+To keep it permanent you will need to add the alias to <strong>~/.bashrc</strong><br>
 
-Open the file with vim ~/.bashrc
-Go to the bottom (Hint! Press G)
-<strong>alias haste = /usr/local/bin/haste.py</strong>
-<strong>:wq</strong> to leave vim
-To make sure bash knows about it do <strong>source ~/.bashrc</strong>
+Open the file with vim ~/.bashrc<br><br>Go to the bottom (Hint! Press G)<br><br>
+Add the following:<strong> alias haste=/usr/local/bin/haste.py</strong><br><br>
+<strong>:wq</strong> to leave vim<br><br>
+To make sure bash saves it <strong>source ~/.bashrc</strong>
