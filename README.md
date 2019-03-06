@@ -6,5 +6,7 @@ For Ubuntu <br>
 
 Copy it to <strong>/usr/local/bin</strong> <br>Once done enter: <strong>alias haste /usr/local/bin/haste.py</strong>
 
+Finally ready to go!
 
+Syntax: <strong>haste <file> </strong>
 
